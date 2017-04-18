@@ -1,2 +1,2 @@
 # MijnLaravel
-MijnLaravel is a Laravel app for GitHub
+MijnLaravel is a Laravel one-page theme.
